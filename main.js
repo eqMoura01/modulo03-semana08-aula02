@@ -1,7 +1,3 @@
-
-
-
-
 fetch("https://api.github.com/users/eqmoura01")
   .then((response => {
     return response.json();
